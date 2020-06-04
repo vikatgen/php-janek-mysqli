@@ -20,7 +20,6 @@ if (isset($action)) {
 
 };
 
-
 ?>
 <h1>Insert</h1>
 <form method="post">
